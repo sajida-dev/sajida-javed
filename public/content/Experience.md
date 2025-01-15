@@ -1,17 +1,17 @@
 ## Smart Software Solution
 - _Web Developer_ | Jan'23 - Mar'24
 - ![logo512](../assets/ss.png)
-- Tags: Debugging,Full Stack Developement
+- Tags: Debugging,Full Stack
 - Badges:
   - Laravel [yellow]
-  - PHP [green]
+  - PHP [purple]
   - AJAX [red]
 
 
 ## Muttii Technologies
 - _Software Developer_ | Jun'24 - Nov'24
 - ![mutti](../assets/mutti.jpeg)
-- Tags: API Development, Full Stack Developement
+- Tags: Full Stack
 - Badges:
   - Software Developer [blue]
 
@@ -19,10 +19,10 @@
 ## Entracloud
 - _Web Developer_ | Apr'24 - Jul'24
 - ![Entracloud](../assets/entra-logo.png)
-- Tags: Full Stack Developement
+- Tags: Full Stack
 - Badges:
-  - InternShip [blue]
-  - PHP [yellow]
+  - InternShip [teal]
+  - PHP [orange]
   - Laravel [green]
   - AJAX [red]
 
@@ -70,3 +70,23 @@
   - HackerRank [red]
 
   
+## CodSoft
+- _AI Enthuestic_ | Apr'24 - Jul'24
+- ![CodSoft](../assets/debug.png)
+- Tags: AI
+- Badges:
+  - Python [blue]
+  - Internship [yellow]
+  - ML [green]
+  - Data Anlytics [red]
+
+
+## BehinDev
+- _Web Developer_ | Apr'24 - Jul'24
+- ![BehinDev](../assets/debug.png)
+- Tags: AI
+- Badges:
+  - PHP [blue]
+  - Internship [yellow]
+  - React [green]
+  - Laravel [red]

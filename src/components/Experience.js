@@ -65,6 +65,8 @@ export default function Experience({ color }) {
                 <Button
                   colorScheme={selected === option.value ? `${color}` : "gray"}
                   onClick={() => handleSelected(option.value)}
+                  size={{ base: "sm", md: "md" }}
+                  width={{ base: "full", md: "auto" }}
                 >
                   {option.value}
                 </Button>

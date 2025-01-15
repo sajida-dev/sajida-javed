@@ -1,3 +1,24 @@
+## University Management System
+Built with HTML5 and CSS | Easy to customize
+- Tags: Web Dev
+- Badges:
+  - Laravel [cyan]
+  - PHP [red]
+  - Blade [green]
+- Buttons:
+  - Demo Link [https://github.com/sajida-dev/Login-Register-Frontend-Kotlin]
+
+## Login Registration Kotlin
+Built with Kotlin & XML | Easy to customize
+- Tags: Android
+- Badges:
+  - Kotlin [cyan]
+  - XML [red]
+  - Android [green]
+- Buttons:
+  - Demo Link [https://github.com/sajida-dev/Login-Register-Frontend-Kotlin]
+
+
 ## Front-end HTML CSS Landing Page
 Built with HTML5 and CSS | Easy to customize
 - Tags: Web Dev
@@ -6,7 +27,7 @@ Built with HTML5 and CSS | Easy to customize
   - CSS3 [red]
   - JavaScript [green]
 - Buttons:
-  - Demo Link [https://sajida-dev.github.io/Percentage-Calculator]
+  - Demo Link [https://sajida-dev.github.io/FrontEnd-html-css-landing-page]
 
 ## Javascript Percentage Calculator
 Calculate percentage | User-friendly interface | Instant results | No dependencies

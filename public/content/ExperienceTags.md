@@ -1,4 +1,4 @@
-Full Stack Developement
+Full Stack
 Debugging
-API Development
+AI
 Hackthon
