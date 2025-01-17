@@ -72,7 +72,7 @@
   
 ## CodSoft
 - _AI Enthuestic_ | Apr'24 - Jul'24
-- ![CodSoft](../assets/debug.png)
+- ![CodSoft](../assets/codesoft.png)
 - Tags: AI
 - Badges:
   - Python [blue]
@@ -83,7 +83,7 @@
 
 ## BehinDev
 - _Web Developer_ | Apr'24 - Jul'24
-- ![BehinDev](../assets/debug.png)
+- ![BehinDev](../assets/behindev.png)
 - Tags: AI
 - Badges:
   - PHP [blue]
