@@ -84,7 +84,7 @@
 ## BehinDev
 - _Web Developer_ | Jun'24 - Aug'24
 - ![BehinDev](../assets/behindev.png)
-- Tags: AI
+- Tags: Full Stack
 - Badges:
   - PHP [blue]
   - Internship [yellow]
