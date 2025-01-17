@@ -6,7 +6,7 @@ Built with HTML5 and CSS | Easy to customize
   - PHP [red]
   - Blade [green]
 - Buttons:
-  - Demo Link [https://github.com/sajida-dev/Login-Register-Frontend-Kotlin]
+  - Demo Link [https://github.com/sajida-dev/University-Management-System-Laravel-Project]
 
 ## Login Registration Kotlin
 Built with Kotlin & XML | Easy to customize
