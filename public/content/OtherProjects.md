@@ -1,5 +1,5 @@
 ## University Management System
-Built with HTML5 and CSS | Easy to customize
+Built with Laravel and Blade | Easy to customize
 - Tags: Web Dev
 - Badges:
   - Laravel [cyan]
