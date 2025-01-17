@@ -60,7 +60,7 @@
 
 
 ## Debugging Competition
-- _Competitive Programmer & Web Developer_ | Apr'24 - Jul'24
+- _Competitive Programmer & Web Developer_ | Apr'23
 - ![Entracloud](../assets/debug.png)
 - Tags: Hackthon,Debugging
 - Badges:
@@ -71,7 +71,7 @@
 
   
 ## CodSoft
-- _AI Enthuestic_ | Apr'24 - Jul'24
+- _AI Enthuestic_ | May'24 - Jul'24
 - ![CodSoft](../assets/codesoft.png)
 - Tags: AI
 - Badges:
@@ -82,7 +82,7 @@
 
 
 ## BehinDev
-- _Web Developer_ | Apr'24 - Jul'24
+- _Web Developer_ | Jun'24 - Aug'24
 - ![BehinDev](../assets/behindev.png)
 - Tags: AI
 - Badges:
