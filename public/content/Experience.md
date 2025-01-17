@@ -28,7 +28,7 @@
 
 
 ## Codex-24 NAMAL University
-- _Competitive Programmer_ | Apr'24 - Jul'24
+- _Competitive Programmer_ | Dec'24
 - ![Entracloud](../assets/codex.png)
 - Tags: Hackthon
 - Badges:
@@ -38,7 +38,7 @@
   
 
 ## MLSA - 7 days Leetcode Challenge
-- _Competitive Programmer_ | Apr'24 - Jul'24
+- _Competitive Programmer_ | Mar'24 - Mar'24
 - ![Entracloud](../assets/mlsa.png)
 - Tags: Hackthon
 - Badges:
@@ -49,7 +49,7 @@
 
 
 ## Speed Programming Competition
-- _Competitive Programmer_ | Apr'24 - Jul'24
+- _Competitive Programmer_ | Dec'24
 - ![Entracloud](../assets/speed.png)
 - Tags: Hackthon
 - Badges:
