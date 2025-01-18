@@ -1,5 +1,5 @@
 ## Smart Software Solution
-- _Web Developer_ | Jan'23 - Mar'24
+- _Web Developer_ | Jul'23 - Jun'24
 - ![logo512](../assets/ss.png)
 - Tags: Debugging,Full Stack
 - Badges:
@@ -9,7 +9,7 @@
 
 
 ## Muttii Technologies
-- _Software Developer_ | Jun'24 - Nov'24
+- _Software Developer_ | Sep'24 - Nov'24
 - ![mutti](../assets/mutti.jpeg)
 - Tags: Full Stack
 - Badges:
@@ -17,7 +17,7 @@
 
 
 ## Entracloud
-- _Web Developer_ | Apr'24 - Jul'24
+- _Web Developer_ | May'24 - Sep'24
 - ![Entracloud](../assets/entra-logo.png)
 - Tags: Full Stack
 - Badges:
