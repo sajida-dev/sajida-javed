@@ -32,8 +32,8 @@
 - ![MITIT](../assets/mitit.png)
 - Tags: Hackthon
 - Badges:
-  - Python [blue]
   - C++ [yellow]
+  - Python [blue]
   - Problem Solving [red]
 
 
@@ -42,11 +42,11 @@
 - ![Entracloud](../assets/codex.png)
 - Tags: Hackthon
 - Badges:
+  - HackerRank [green]
   - Python [blue]
   - C++ [yellow]
-  - HackerRank [red]
   
-
+  
 ## MLSA - 7 days Leetcode Challenge
 - _Competitive Programmer_ | Mar'24 - Mar'24
 - ![Entracloud](../assets/mlsa.png)
