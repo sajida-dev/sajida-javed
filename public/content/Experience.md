@@ -9,7 +9,7 @@
 
 
 ## Muttii Technologies
-- _Software Developer_ | Sep'24 - Nov'24
+- _Software Developer_ | Sep'24 - Oct'24
 - ![mutti](../assets/mutti.jpeg)
 - Tags: Full Stack
 - Badges:
@@ -34,7 +34,7 @@
 - Badges:
   - Python [blue]
   - C++ [yellow]
-  - HackerRank [red]
+  - Problem Solving [red]
 
 
 ## Codex-24 NAMAL University
