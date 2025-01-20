@@ -27,9 +27,9 @@
   - AJAX [red]
 
 
-## MIT^2 International Hackathon
+## M{IT}^2; International Hackathon
 - _Competitive Programmer_ | Jan 19, 2025
-- ![Entracloud](../assets/mitit.png)
+- ![MITIT](../assets/mitit.png)
 - Tags: Hackthon
 - Badges:
   - Python [blue]
