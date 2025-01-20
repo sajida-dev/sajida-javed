@@ -1,13 +1,26 @@
 ## Front-end HTML CSS Landing Page
 Built with HTML5 and CSS | Easy to customize
+- ![600x200](https://github.com/sajida-dev/Prime-Landing-Page/raw/main/demo.gif)
+- Tags: Web Dev
+- Badges:
+  - HTML5 [blue]
+  - CSS3 [yellow]
+  - JavaScript [red]
+- Buttons:
+  - Demo Link [https://sajida-dev.github.io/Prime-Landing-Page]
+
+
+## Front-end HTML CSS Landing Page
+Built with HTML5 and CSS | Easy to customize
 - ![600x200](https://github.com/sajida-dev/FrontEnd-html-css-landing-page/raw/main/demo.gif)
-- Tags: Category 1
+- Tags: Web Dev
 - Badges:
   - HTML5 [cyan]
   - CSS3 [red]
   - JavaScript [green]
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/FrontEnd-html-css-landing-page]
+
 
 ## Multi-step Js Validation Form
 Multi-step navigation | Progress Indicator | Validation
@@ -19,6 +32,7 @@ Multi-step navigation | Progress Indicator | Validation
   - JavaScript [green]
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/Multi-step-Javascript-form]
+
 
 ## Javascript Percentage Calculator
 Calculate percentage | User-friendly interface | Instant results | No dependencies

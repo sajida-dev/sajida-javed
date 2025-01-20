@@ -29,6 +29,18 @@ Built with HTML5 and CSS | Easy to customize
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/FrontEnd-html-css-landing-page]
 
+
+## Prime Landing Page
+Built with HTML5 and CSS | Easy to customize
+- Tags: Web Dev
+- Badges:
+  - HTML5 [blue]
+  - CSS3 [yellow]
+  - JavaScript [green]
+- Buttons:
+  - Demo Link [https://sajida-dev.github.io/Prime-Landing-Page]
+
+
 ## Javascript Percentage Calculator
 Calculate percentage | User-friendly interface | Instant results | No dependencies
 - Tags: Web Dev
