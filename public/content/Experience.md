@@ -27,6 +27,16 @@
   - AJAX [red]
 
 
+## MIT^2 International Hackathon
+- _Competitive Programmer_ | Jan 19, 2025
+- ![Entracloud](../assets/mitit.png)
+- Tags: Hackthon
+- Badges:
+  - Python [blue]
+  - C++ [yellow]
+  - HackerRank [red]
+
+
 ## Codex-24 NAMAL University
 - _Competitive Programmer_ | Dec'24
 - ![Entracloud](../assets/codex.png)
