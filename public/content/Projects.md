@@ -1,4 +1,4 @@
-## Front-end HTML CSS Landing Page
+## Prime HTML CSS Landing Page
 Built with HTML5 and CSS | Easy to customize
 - ![600x200](https://github.com/sajida-dev/Prime-Landing-Page/raw/main/demo.gif)
 - Tags: Web Dev
@@ -15,7 +15,7 @@ Built with HTML5 and CSS | Easy to customize
 - ![600x200](https://github.com/sajida-dev/FrontEnd-html-css-landing-page/raw/main/demo.gif)
 - Tags: Web Dev
 - Badges:
-  - HTML5 [cyan]
+  - HTML5 [yellow]
   - CSS3 [red]
   - JavaScript [green]
 - Buttons:
