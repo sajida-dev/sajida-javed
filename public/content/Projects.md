@@ -1,6 +1,6 @@
 ## Task Management System
 Built with Laravel and Blade | Laravel CRUD | Easy to customize | User-friendly interface 
-- ![600x200](https://github.com/sajida-dev/display-fetched-data-from-API-PHP-and-AJAX/raw/main/demo.png)
+- ![600x200](https://github.com/sajida-dev/task-management-system-Laravel-project/blob/main/public/demo.gif)
 - Tags: Web Dev
 - Badges:
   - Laravel [yellow]
