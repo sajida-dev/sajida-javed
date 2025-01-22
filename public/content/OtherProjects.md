@@ -8,6 +8,16 @@ Built with Laravel and Blade | Easy to customize
 - Buttons:
   - Source Code [https://github.com/sajida-dev/University-Management-System-Laravel-Project]
 
+## Task Management System
+Built with Laravel and Blade | Easy to customize
+- Tags: Web Dev
+- Badges:
+  - Laravel [yellow]
+  - PHP [red]
+  - Blade [green]
+- Buttons:
+  - Source Code [https://github.com/sajida-dev/task-management-system-Laravel-project]
+
 ## Login Registration Kotlin
 Built with Kotlin & XML | Easy to customize
 - Tags: Android

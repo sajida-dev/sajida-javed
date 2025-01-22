@@ -1,3 +1,18 @@
+## Task Management System
+Built with Laravel and Blade | Laravel CRUD | Easy to customize | User-friendly interface 
+- ![600x200](https://github.com/sajida-dev/display-fetched-data-from-API-PHP-and-AJAX/raw/main/demo.png)
+- Tags: Web Dev
+- Badges:
+  - Laravel [yellow]
+  - Blade [blue]
+  - HTML5 [red]
+  - CSS3 [green]
+  - JavaScript [green]
+  - PHP [purple]
+  - Tailwind CSS [orange]
+- Buttons:
+  - Source Code [https://github.com/sajida-dev/task-management-system-Laravel-project]
+
 ## Prime HTML CSS Landing Page
 Built with HTML5 and CSS | Easy to customize
 - ![600x200](https://github.com/sajida-dev/Prime-Landing-Page/raw/main/demo.gif)
