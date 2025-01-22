@@ -61,3 +61,16 @@ Multi-step navigation | Progress Indicator | Validation`
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/Multi-step-Javascript-form]
   
+
+## Display Fetch User data from API using AJAX and PHP
+Fetch data from API | Easy to customize | User-friendly interface 
+- Tags: Web Dev
+- Badges:
+  - HTML5 [yellow]
+  - CSS3 [blue]
+  - JavaScript [red]
+  - JQuery [green]
+  - PHP [purple]
+  - AJAX [orange]
+- Buttons:
+  - Demo Link [https://sajida-dev.github.io/display-fetched-data-from-API-PHP-and-AJAX]  

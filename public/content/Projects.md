@@ -44,3 +44,18 @@ Calculate percentage | User-friendly interface | Instant results | No dependenci
   - JavaScript [red]
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/Percentage-Calculator]
+
+
+## Display Fetch User data from API using AJAX and PHP
+Fetch data from API | Easy to customize | User-friendly interface 
+- ![600x200](https://github.com/sajida-dev/display-fetched-data-from-API-PHP-and-AJAX/raw/main/demo.png)
+- Tags: Web Dev
+- Badges:
+  - HTML5 [yellow]
+  - CSS3 [blue]
+  - JavaScript [red]
+  - JQuery [green]
+  - PHP [purple]
+  - AJAX [orange]
+- Buttons:
+  - Demo Link [https://sajida-dev.github.io/display-fetched-data-from-API-PHP-and-AJAX]
