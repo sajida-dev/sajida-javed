@@ -6,12 +6,28 @@ Built with Laravel and Blade | Laravel CRUD | Easy to customize | User-friendly 
   - Laravel [yellow]
   - Blade [blue]
   - HTML5 [red]
-  - CSS3 [green]
+  - CSS3 [cyan]
   - JavaScript [green]
   - PHP [purple]
   - Tailwind CSS [orange]
 - Buttons:
   - Source Code [https://github.com/sajida-dev/task-management-system-Laravel-project]
+
+
+## Display Fetch User data from API using AJAX and PHP
+Fetch data from API | Easy to customize | User-friendly interface 
+- ![600x200](https://github.com/sajida-dev/display-fetched-data-from-API-PHP-and-AJAX/raw/main/demo.png)
+- Tags: Web Dev
+- Badges:
+  - HTML5 [yellow]
+  - CSS3 [blue]
+  - JavaScript [red]
+  - JQuery [green]
+  - PHP [purple]
+  - AJAX [orange]
+- Buttons:
+  - Demo Link [https://sajida-dev.github.io/display-fetched-data-from-API-PHP-and-AJAX]
+
 
 ## Prime HTML CSS Landing Page
 Built with HTML5 and CSS | Easy to customize
@@ -60,17 +76,3 @@ Calculate percentage | User-friendly interface | Instant results | No dependenci
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/Percentage-Calculator]
 
-
-## Display Fetch User data from API using AJAX and PHP
-Fetch data from API | Easy to customize | User-friendly interface 
-- ![600x200](https://github.com/sajida-dev/display-fetched-data-from-API-PHP-and-AJAX/raw/main/demo.png)
-- Tags: Web Dev
-- Badges:
-  - HTML5 [yellow]
-  - CSS3 [blue]
-  - JavaScript [red]
-  - JQuery [green]
-  - PHP [purple]
-  - AJAX [orange]
-- Buttons:
-  - Demo Link [https://sajida-dev.github.io/display-fetched-data-from-API-PHP-and-AJAX]
