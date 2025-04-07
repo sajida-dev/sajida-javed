@@ -62,7 +62,7 @@ Multi-step navigation | Progress Indicator | Validation
   - CSS3 [blue]
   - JavaScript [green]
 - Buttons:
-  - Demo Link [https://sajida-dev.github.io/Multi-step-Javascript-form]
+  - Demo Link [https://planing-multistep-form.netlify.app/]
 
 
 ## Javascript Percentage Calculator
