@@ -1,4 +1,3 @@
+Hackthon
 Full Stack
 Debugging
-AI
-Hackthon
