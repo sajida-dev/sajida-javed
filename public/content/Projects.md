@@ -24,7 +24,7 @@ Multi-step navigation | Progress Indicator | Validation
 
 ## Real estate Management System
 Built with Laravel and Vue Js | Easy to customize | User-friendly interface 
-- ![600x200](https://raw.githubusercontent.com/sajida-javed/refs/heads/main/public/assets/rems.png)
+- ![600x200](https://raw.githubusercontent.com/sajida-dev/sajida-javed/refs/heads/main/public/assets/rems.png)
 - Tags: Web Dev
 - Badges:
   - Laravel [yellow]
