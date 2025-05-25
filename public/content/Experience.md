@@ -33,6 +33,7 @@
 - ![Codex-24 NAMAL University](../assets/codex.png)
 - Tags: Hackthon
 - Badges:
+  - 5th Postion [red]
   - HackerRank [green]
   - Python [blue]
   - C++ [yellow]
@@ -49,11 +50,12 @@
   - LeetCode [green]
 
 
-## Speed Programming Competition
+## UOE - Speed Programming Competition
 - _Competitive Programmer_ | Dec'24
 - ![Speed Programming Competition](../assets/speed.png)
 - Tags: Hackthon
 - Badges:
+  - Winner [cyan]
   - Python [blue]
   - C++ [yellow]
   - HackerRank [red]
