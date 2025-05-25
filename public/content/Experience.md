@@ -1,6 +1,17 @@
+## Shan Skin and Hair Clinic
+- _Web Developer_ | May'25 - Present
+- ![Debugging Competition](https://media.licdn.com/dms/image/v2/C560BAQFoPi_zcWODwA/company-logo_200_200/company-logo_200_200/0/1657810343287?e=1753920000&v=beta&t=oNMllyW1_qpWt763-r24U0JAlR0NOp35hwXBRBtQDxI)
+- Tags: Web Developer
+- Badges:
+  - Laravel [blue]
+  - Vue [yellow]
+  - PHP [green]
+  - Next Js [red]
+
+
 ## CALICO California Informatics Competition ; International Hackathon
 - _Competitive Programmer_ | Apr 27, 2025
-- ![M{IT}^2; International Hackathon](../assets/mitit.png)
+- ![M{IT}^2; International Hackathon](https://media.licdn.com/dms/image/v2/D560BAQEYflWqsgSQHA/company-logo_200_200/company-logo_200_200/0/1664331122073/calico_berkeley_logo?e=1753920000&v=beta&t=FsHEiYx_D9kX4CymD7RXch9rYeLLQ1R3AkCRgG_Ht6A)
 - Tags: Hackthon
 - Badges:
   - Python [green]
