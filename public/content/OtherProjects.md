@@ -1,3 +1,14 @@
+## Real Estate Management System
+Built with Laravel, Vue js and Tailwind css
+- Tags: Web Dev
+- Badges:
+  - Laravel [yellow]
+  - PHP [red]
+  - Vue Js [green]
+  - Tailwind CSS [cayn]
+- Buttons:
+  - Source Code [https://github.com/sajida-dev/rems-laravel]
+
 ## University Management System
 Built with Laravel and Blade | Easy to customize
 - Tags: Web Dev
@@ -52,7 +63,7 @@ Built with HTML5 and CSS | Easy to customize
 
 
 ## Javascript Percentage Calculator
-Calculate percentage | User-friendly interface | Instant results | No dependencies
+Calculate percentage | User-friendly interface
 - Tags: Web Dev
 - Badges:
   - HTML5 [yellow]
