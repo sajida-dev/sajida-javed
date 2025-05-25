@@ -1,5 +1,5 @@
 ## Shan Skin and Hair Clinic
-- _Web Developer_ | May'25 - Present
+- _Web Developer_ | May' 25 - Present
 - ![Debugging Competition](https://media.licdn.com/dms/image/v2/C560BAQFoPi_zcWODwA/company-logo_200_200/company-logo_200_200/0/1657810343287?e=1753920000&v=beta&t=oNMllyW1_qpWt763-r24U0JAlR0NOp35hwXBRBtQDxI)
 - Tags: Full Stack
 - Badges:
@@ -16,6 +16,7 @@
 - Badges:
   - Python [green]
   - Problem Solving [red]
+  - Data Structure [blue]
 
 
 ## M{IT}^2; International Hackathon
@@ -38,17 +39,6 @@
   - Python [blue]
   - C++ [yellow]
   
-  
-## MLSA - 7 days Leetcode Challenge
-- _Competitive Programmer_ | Mar'24 - Mar'24
-- ![MLSA - 7 days Leetcode Challenge](../assets/mlsa.png)
-- Tags: Hackthon
-- Badges:
-  - Python [blue]
-  - C++ [yellow]
-  - HackerRank [red]
-  - LeetCode [green]
-
 
 ## UOE - Speed Programming Competition
 - _Competitive Programmer_ | Dec'24
@@ -62,6 +52,17 @@
   - Java [green]
 
 
+## MLSA - 7 days Leetcode Challenge
+- _Competitive Programmer_ | Mar'24 - Mar'24
+- ![MLSA - 7 days Leetcode Challenge](../assets/mlsa.png)
+- Tags: Hackthon
+- Badges:
+  - Python [blue]
+  - C++ [yellow]
+  - HackerRank [red]
+  - LeetCode [green]
+
+
 ## Debugging Competition
 - _Competitive Programmer & Web Developer_ | Apr'23
 - ![Debugging Competition](../assets/debug.png)
@@ -71,5 +72,4 @@
   - C++ [yellow]
   - PHP [green]
   - HackerRank [red]
-
 
