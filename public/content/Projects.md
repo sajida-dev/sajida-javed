@@ -1,6 +1,6 @@
 ## Foraging Mushrooms
 Landing Page | Custom Css | Responsiveness
-- ![600x200](https://github.com/sajida-dev/Multi-step-Javascript-form/raw/main/demo.png)
+- ![600x200](https://raw.githubusercontent.com/sajida-dev/sajida-javed/refs/heads/main/public/assets/Screenshot%202025-05-25%20091936.png)
 - Tags: Web Dev
 - Badges:
   - HTML5 [yellow]
