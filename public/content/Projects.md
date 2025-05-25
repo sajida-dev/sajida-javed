@@ -15,27 +15,24 @@ Multi-step navigation | Progress Indicator | Validation
 - ![600x200](https://github.com/sajida-dev/Multi-step-Javascript-form/raw/main/demo.png)
 - Tags: Web Dev
 - Badges:
-  - HTML5 [yellow]
-  - CSS3 [blue]
+  - React Js [yellow]
+  - Tailwind CSS [blue]
   - JavaScript [green]
 - Buttons:
   - Demo Link [https://planing-multistep-form.netlify.app/]
 
 
-## Task Management System
-Built with Laravel and Blade | Laravel CRUD | Easy to customize | User-friendly interface 
-- ![600x200](https://raw.githubusercontent.com/sajida-dev/task-management-system-Laravel-project/main/public/demo.gif)
+## Real estate Management System
+Built with Laravel and Vue Js | Easy to customize | User-friendly interface 
+- ![600x200](https://raw.githubusercontent.com/sajida-javed/refs/heads/main/public/assets/rems.png)
 - Tags: Web Dev
 - Badges:
   - Laravel [yellow]
-  - Blade [blue]
-  - HTML5 [red]
-  - CSS3 [cyan]
-  - JavaScript [green]
-  - PHP [purple]
-  - Tailwind CSS [orange]
+  - Vue Js [blue]
+  - Tailwind CSS [red]
+  - Inertia [cyan]
 - Buttons:
-  - Source Code [https://github.com/sajida-dev/task-management-system-Laravel-project]
+  - Source Code [https://github.com/sajida-dev/rems-laravel]
 
 
 ## Display Fetch User data from API using AJAX and PHP
@@ -53,7 +50,7 @@ Fetch data from API | Easy to customize | User-friendly interface
   - Demo Link [https://sajida-dev.github.io/display-fetched-data-from-API-PHP-and-AJAX]
 
 
-## Prime HTML CSS Landing Page
+## Prime Landing Page
 Built with HTML5 and CSS | Easy to customize
 - ![600x200](https://github.com/sajida-dev/Prime-Landing-Page/raw/main/demo.gif)
 - Tags: Web Dev
