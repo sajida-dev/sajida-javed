@@ -1,35 +1,15 @@
-## Smart Software Solution
-- _Web Developer_ | Jul'23 - Jun'24
-- ![logo512](../assets/ss.png)
-- Tags: Debugging,Full Stack
+## CALICO California Informatics Competition ; International Hackathon
+- _Competitive Programmer_ | Apr 27, 2025
+- ![M{IT}^2; International Hackathon](../assets/mitit.png)
+- Tags: Hackthon
 - Badges:
-  - Laravel [yellow]
-  - PHP [purple]
-  - AJAX [red]
-
-
-## Muttii Technologies
-- _Software Developer_ | Sep'24 - Oct'24
-- ![mutti](../assets/mutti.jpeg)
-- Tags: Full Stack
-- Badges:
-  - Software Developer [blue]
-
-
-## Entracloud
-- _Web Developer_ | May'24 - Sep'24
-- ![Entracloud](../assets/entra-logo.png)
-- Tags: Full Stack
-- Badges:
-  - InternShip [teal]
-  - PHP [orange]
-  - Laravel [green]
-  - AJAX [red]
+  - Python [green]
+  - Problem Solving [red]
 
 
 ## M{IT}^2; International Hackathon
 - _Competitive Programmer_ | Jan 19, 2025
-- ![MITIT](../assets/mitit.png)
+- ![M{IT}^2; International Hackathon](../assets/mitit.png)
 - Tags: Hackthon
 - Badges:
   - C++ [yellow]
@@ -39,7 +19,7 @@
 
 ## Codex-24 NAMAL University
 - _Competitive Programmer_ | Dec'24
-- ![Entracloud](../assets/codex.png)
+- ![Codex-24 NAMAL University](../assets/codex.png)
 - Tags: Hackthon
 - Badges:
   - HackerRank [green]
@@ -49,7 +29,7 @@
   
 ## MLSA - 7 days Leetcode Challenge
 - _Competitive Programmer_ | Mar'24 - Mar'24
-- ![Entracloud](../assets/mlsa.png)
+- ![MLSA - 7 days Leetcode Challenge](../assets/mlsa.png)
 - Tags: Hackthon
 - Badges:
   - Python [blue]
@@ -60,7 +40,7 @@
 
 ## Speed Programming Competition
 - _Competitive Programmer_ | Dec'24
-- ![Entracloud](../assets/speed.png)
+- ![Speed Programming Competition](../assets/speed.png)
 - Tags: Hackthon
 - Badges:
   - Python [blue]
@@ -71,7 +51,7 @@
 
 ## Debugging Competition
 - _Competitive Programmer & Web Developer_ | Apr'23
-- ![Entracloud](../assets/debug.png)
+- ![Debugging Competition](../assets/debug.png)
 - Tags: Hackthon,Debugging
 - Badges:
   - Python [blue]
@@ -79,24 +59,4 @@
   - PHP [green]
   - HackerRank [red]
 
-  
-## CodSoft
-- _AI Enthuestic_ | May'24 - Jul'24
-- ![CodSoft](../assets/codesoft.png)
-- Tags: AI
-- Badges:
-  - Python [blue]
-  - Internship [yellow]
-  - ML [green]
-  - Data Anlytics [red]
 
-
-## BehinDev
-- _Web Developer_ | Jun'24 - Aug'24
-- ![BehinDev](../assets/behindev.png)
-- Tags: Full Stack
-- Badges:
-  - PHP [blue]
-  - Internship [yellow]
-  - React [green]
-  - Laravel [red]
