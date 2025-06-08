@@ -8,6 +8,16 @@ Built with Laravel, Vue js and Tailwind css
   - Tailwind CSS [cayn]
 - Buttons:
   - Source Code [https://github.com/sajida-dev/rems-laravel]
+ 
+## Javed Studio - Photography and Videography
+Built with Next Js and Tailwind css
+- Tags: Web Dev
+- Badges:
+  - Next Js [yellow]
+  - Javascript [red]
+  - Tailwind CSS [cayn]
+- Buttons:
+  - Source Code [https://javedstudio.netlify.app/]
 
 ## University Management System
 Built with Laravel and Blade | Easy to customize
