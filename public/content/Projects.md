@@ -48,6 +48,19 @@ Fetch data from API | Easy to customize | User-friendly interface
   - AJAX [orange]
 - Buttons:
   - Demo Link [https://sajida-dev.github.io/display-fetched-data-from-API-PHP-and-AJAX]
+ 
+
+## Javed Studio - Photography & Videography
+Build in Next Js | Easy to customize | User-friendly interface 
+- ![600x200](https://raw.githubusercontent.com/sajida-dev/sajida-javed/refs/heads/main/public/assets/javed-studio.png)
+- Tags: Web Dev
+- Badges:
+  - Next Js [yellow]
+  - Tailwind css [blue]
+  - JavaScript [red]
+  - React Js [green]
+- Buttons:
+  - Demo Link [https://javedstudio.netlify.app/]
 
 
 ## Prime Landing Page
