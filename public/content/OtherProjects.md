@@ -7,7 +7,7 @@ Built with Laravel, Vue js and Tailwind css
   - Vue Js [green]
   - Tailwind CSS [cayn]
 - Buttons:
-  - Source Code [https://github.com/sajida-dev/rems-laravel]
+  - GitHub [https://github.com/sajida-dev/rems-laravel]
  
 ## Javed Studio - Photography and Videography
 Built with Next Js and Tailwind css
@@ -17,7 +17,7 @@ Built with Next Js and Tailwind css
   - Javascript [red]
   - Tailwind CSS [cayn]
 - Buttons:
-  - Source Code [https://javedstudio.netlify.app/]
+  - Demo Link [https://javedstudio.netlify.app/]
 
 ## University Management System
 Built with Laravel and Blade | Easy to customize
@@ -27,7 +27,7 @@ Built with Laravel and Blade | Easy to customize
   - PHP [red]
   - Blade [green]
 - Buttons:
-  - Source Code [https://github.com/sajida-dev/University-Management-System-Laravel-Project]
+  - GitHub [https://github.com/sajida-dev/University-Management-System-Laravel-Project]
 
 ## Task Management System
 Built with Laravel and Blade | Easy to customize
@@ -37,7 +37,7 @@ Built with Laravel and Blade | Easy to customize
   - PHP [red]
   - Blade [green]
 - Buttons:
-  - Source Code [https://github.com/sajida-dev/task-management-system-Laravel-project]
+  - GitHub [https://github.com/sajida-dev/task-management-system-Laravel-project]
 
 ## Login Registration Kotlin
 Built with Kotlin & XML | Easy to customize
@@ -47,7 +47,7 @@ Built with Kotlin & XML | Easy to customize
   - XML [red]
   - Android [green]
 - Buttons:
-  - Source Code [https://github.com/sajida-dev/Login-Register-Frontend-Kotlin]
+  - GitHub [https://github.com/sajida-dev/Login-Register-Frontend-Kotlin]
 
 
 ## Front-end HTML CSS Landing Page
@@ -80,7 +80,7 @@ Built with HTML5 and CSS | Easy to customize
   - CSS3 [yellow]
   - JavaScript [green]
 - Buttons:
-  - Demo Link [https://sajida-dev.github.io/Prime-Landing-Page]
+  - GitHub [https://github.com/sajida-dev/Prime-Landing-Page]
 
 
 ## Javascript Percentage Calculator
