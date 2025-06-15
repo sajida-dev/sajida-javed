@@ -1,3 +1,2 @@
 Full Stack
 Hackthon
-Debugging
