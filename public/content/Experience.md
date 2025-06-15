@@ -1,17 +1,18 @@
-## Shan Skin and Hair Clinic
+## GAOek Inc
 - _Web Developer_ | May' 25 - Present
-- ![Debugging Competition](https://media.licdn.com/dms/image/v2/C560BAQFoPi_zcWODwA/company-logo_200_200/company-logo_200_200/0/1657810343287?e=1753920000&v=beta&t=oNMllyW1_qpWt763-r24U0JAlR0NOp35hwXBRBtQDxI)
+- ![Debugging Competition](https://gaotek.com/wp-content/uploads/2024/02/GAOTek-Logo-Final20-100x100-1.png)
 - Tags: Full Stack
 - Badges:
-  - Laravel [blue]
-  - Vue [yellow]
-  - PHP [green]
-  - Next Js [red]
+  - Wordpress [blue]
+  - WooCommerce [yellow]
+  - Custom Code [green]
+  - Ajax [red]
+  - CF7 [orange]
 
 
 ## CALICO California Informatics Competition ; International Hackathon
 - _Competitive Programmer_ | Apr 27, 2025
-- ![M{IT}^2; International Hackathon](https://media.licdn.com/dms/image/v2/D560BAQEYflWqsgSQHA/company-logo_200_200/company-logo_200_200/0/1664331122073/calico_berkeley_logo?e=1753920000&v=beta&t=FsHEiYx_D9kX4CymD7RXch9rYeLLQ1R3AkCRgG_Ht6A)
+- ![CALICO California Informatics Competition](https://media.licdn.com/dms/image/v2/D560BAQEYflWqsgSQHA/company-logo_200_200/company-logo_200_200/0/1664331122073/calico_berkeley_logo?e=1753920000&v=beta&t=FsHEiYx_D9kX4CymD7RXch9rYeLLQ1R3AkCRgG_Ht6A)
 - Tags: Hackthon
 - Badges:
   - Python [green]
@@ -61,15 +62,4 @@
   - C++ [yellow]
   - HackerRank [red]
   - LeetCode [green]
-
-
-## Debugging Competition
-- _Competitive Programmer & Web Developer_ | Apr'23
-- ![Debugging Competition](../assets/debug.png)
-- Tags: Hackthon,Debugging
-- Badges:
-  - Python [blue]
-  - C++ [yellow]
-  - PHP [green]
-  - HackerRank [red]
 
